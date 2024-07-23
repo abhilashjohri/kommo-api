@@ -1,0 +1,16 @@
+listing
+
+http://localhost/kommo-api/custom_fields.php?mod=contacts
+http://localhost/kommo-api/custom_fields.php?mod=leads
+http://localhost/kommo-api/custom_fields.php?mod=companies
+http://localhost/kommo-api/lead_list.php
+
+create
+http://localhost/kommo-api/lead_create.php
+http://localhost/kommo-api/lead_contact_create.php
+
+update
+http://localhost/kommo-api/lead_complax_create.php
+
+info
+http://localhost/kommo-api/lead_info.php?id=6684474
